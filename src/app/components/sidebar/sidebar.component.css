@@ -1,0 +1,34 @@
+:host {
+    min-width: 450px;
+    max-width: 450px;
+    width: 450px;
+    background-color: #FFD363;
+    padding: 10px;
+}
+
+.card {
+    width: 100%;
+    padding: 5px 5px 50px 5px;
+    box-sizing: border-box;
+    border: 1px solid #998C8D;
+    margin-bottom: 5px;
+}
+
+.card img {
+    width: 100%;
+    height: 300px;
+}
+
+.btn-video {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #47CC1F;
+    border: 1px solid #0BCC54;
+    /* display: inline-block; */
+    float: left;
+}
+
+.text-info {
+    /* display: inline-block; */
+    float: right
+}
